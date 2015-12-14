@@ -1,0 +1,4 @@
+Pour modifier le code :
+Il faut installer la librairie Arduino IRremote qui se trouve dans le dossier. (Arduino-IRremote-master)
+
+Il risque d'y avoir un problème lors de la compilation car 2 headers portent le nom IRremote.h ; la contention a lieu avec la librairie robotIRremote. Il suffit de la retirer des librairies arduino (couper-coller-la ailleurs) pour que le bon header soit chargé.

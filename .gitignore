@@ -1,0 +1,31 @@
+# Android Beacon App
+AndroidBeaconApp/.gradle
+AndroidBeaconApp/local.properties
+AndroidBeaconApp/.idea/workspace.xml
+AndroidBeaconApp/.idea/libraries
+AndroidBeaconApp/.DS_Store
+AndroidBeaconApp/build
+AndroidBeaconApp/captures
+
+# BeaconServer for the Android Beacon App
+BeaconServer/node_modules
+
+
+# Bath Mirror
+BathMirror/dist
+BathMirror/.tmp
+BathMirror/.sass-cache
+BathMirror/.editorconfig
+BathMirror/.gitattributes
+BathMirror/.yo-rc.json
+BathMirror/bower_components
+BathMirror/node_modules
+BathMirror/server/node_modules
+
+
+# Arduino
+LightsUpToBathroom/Serveur LightUpPathToBathroom/node_modules
+WelcomingMessage/Serveur capteurPresence/node_modules
+
+# Set screen ON/OFF
+setScreenOnOff/node_modules

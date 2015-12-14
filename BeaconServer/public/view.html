@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <meta charset="utf-8" />
+
+        <title>Beacon Data</title>
+
+    </head>
+
+ 
+
+    <body>
+
+        <h1>Beacon Informations</h1>
+
+        <script src="/socket.io/socket.io.js"></script>
+
+        <p>Distance : <span id="d"/></p>
+        <p>Name : <span id="Bname"/></p>
+        <p>Adresse : </frame><span id="Baddress"/></p>
+        <p>Fabricant : <span id="manufacturer"/></p>
+        <p>RSSI : <span id="rssi"/></p>
+        <p>Taux Puissance : <span id="TxPower"/></p>
+        <p>UUID : <span id="uuid"/></p>
+        <p>Majeur : <span id="major"/></p>
+        <p>Mineur : <span id="minor"/></p>
+
+        <script type="text/javascript" src="socketConnect.js"></script>
+        <!-- script>
+        var socket = io();
+        socket.on('queryUpdated', function (params) {
+            document.getElementById("d").innerHTML = params['d'];
+            document.getElementById("Bname").innerHTML = params['Bname'];
+            document.getElementById("Baddress").innerHTML = params['Baddress'];
+            document.getElementById("manufacturer").innerHTML = params['manufacturer'];
+            document.getElementById("rssi").innerHTML = params['rssi'];
+            document.getElementById("TxPower").innerHTML = params['TxPower'];
+            document.getElementById("uuid").innerHTML = params['uuid'];
+            document.getElementById("major").innerHTML = params['major'];
+            document.getElementById("minor").innerHTML = params['minor'];
+        });
+      </script -->
+
+    </body>

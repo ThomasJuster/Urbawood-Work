@@ -1,0 +1,29 @@
+Valeurs hexadécimales Télécommande Speechi :
+
+On/Off : EE1101FE
+Bouton jaune "PC" : EE118679
+Bouton vert "HDMI" : EE1146B9
+Bouton bleu : "COMP." : EE11C639
+Bouton rouge "AV" : EE1126D9
+Bouton "PSM" : EE1104FB
+Bouton "SSM" : EE11847B
+
+Bouton "VOL+" : EE1109F6
+Bouton "VOL-" : EE11F10E
+
+Bouton "OK" : EE1131CE
+
+Flèche haut : EE11B14E
+Flèche bas : EE11718E
+Flèche gauche : EE1144BB
+Flèche droite : EE11C43B
+
+
+Bouton en bas :
+"EXIT" : EE116996
+"MENU" : EE11A956
+"INFO" : EE113CC3
+"FREEZE" : EE11807F
+"MUTE" : EE11FA05
+"STEREO" : EE11E41B
+"SLEEP" : EE119C63

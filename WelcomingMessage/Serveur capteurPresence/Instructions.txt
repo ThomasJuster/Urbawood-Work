@@ -1,0 +1,4 @@
+Il faut instancier le serveur de l'Arduino !
+C'est char server[] = "10.134.15.101" qui est pour l'instant l'adresse de ma machine.
+
+Note : Le module "player" ne fonctionne pas sur Windows.
